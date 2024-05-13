@@ -5,22 +5,22 @@ Welcome to our Power BI dashboard repository! This interactive dashboard is spec
 # Dashboard Overview
 The Amazon Sales Analysis dashboard consists of several key components aimed at providing a holistic view of sales performance on the Amazon platform:
 
-1. # Sales Overview
+ # Sales Overview
 The sales overview section provides a high-level summary of key metrics, including total sales revenue, number of orders, and average order value. It offers an instant snapshot of overall sales performance.
 
-2. # Sales by Region
+ # Sales by Region
 The sales by region chart offers a geographical visualization of sales performance across different regions or countries. Users can easily identify which regions contribute the most to their sales and spot any emerging trends or opportunities.
 
-3. # Product Category Analysis
+ # Product Category Analysis
 The product category analysis section allows users to explore sales data by product category. It includes interactive charts that showcase sales trends for each product category over time, enabling sellers to identify top-performing categories and optimize their product offerings accordingly.
 
-4. # Time Series Analysis
+ # Time Series Analysis
 The time series analysis component displays sales data over a specific time period, such as monthly or quarterly sales trends. Users can track changes in sales volume, identify seasonal patterns, and make informed decisions based on historical sales data.
 
-5. # Customer Segment Analysis
+ # Customer Segment Analysis
 The customer segment analysis section provides insights into sales performance across different customer segments, such as new customers, returning customers, or high-value customers. Sellers can tailor their marketing strategies and customer engagement efforts based on these insights to drive sales growth and enhance customer loyalty.
 
-6. # Marketing Channel Performance
+ # Marketing Channel Performance
 The marketing channel performance chart visualizes sales data based on different marketing channels, such as organic search, paid advertising, or social media. Sellers can evaluate the effectiveness of their marketing campaigns, allocate resources more efficiently, and optimize their marketing spend to maximize ROI.
 
 How to Use the Dashboard
